@@ -1,5 +1,3 @@
-Hello!
-
 I created a webpack configuration from scratch.
 It's open source, of course.
 The objective of this project was to help developers, either you're a beginner or not, to have a complete javascript ES6 architecture.
